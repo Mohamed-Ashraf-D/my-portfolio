@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohamed-ashraf-d.github.io/my-portfolio/sitemap.xml
